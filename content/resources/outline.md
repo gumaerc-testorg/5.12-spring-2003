@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 92d5b652-56bf-1ea5-a26e-a548816068bd
 resourcetype: Document
 title: outline.pdf
 uid: 72cad7a6-f7b8-31c4-8169-204d96e9eade

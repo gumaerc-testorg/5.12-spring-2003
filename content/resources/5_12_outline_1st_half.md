@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 92d5b652-56bf-1ea5-a26e-a548816068bd
 resourcetype: Document
 title: 5_12_Outline_1st_Half.pdf
 uid: 85c7b648-37f6-2117-f933-69e80110f493

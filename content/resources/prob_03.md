@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fe6d75e3-8e91-1674-6933-a674fab79715
 resourcetype: Document
 title: prob_03.pdf
 uid: ff301427-1ca9-92ec-92e3-018e94361c3b
