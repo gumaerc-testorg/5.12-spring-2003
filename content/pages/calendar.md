@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Calendar
 uid: 56890e17-3c6c-2684-963b-79abecb7a9fb
 ---
@@ -34,7 +35,7 @@ DAY 3
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 1  
-**Review of Lewis Bonding ([PDF]({{< baseurl >}}/resources/01))
+**Review of Lewis Bonding ({{< resource_link a9622543-20d5-add4-b31a-77925dddfce9 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 2**  
@@ -48,17 +49,17 @@ Resonance
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 3  
-**Molecular Orbital Theory, Hybridization ([PDF]({{< baseurl >}}/resources/03))  
+**Molecular Orbital Theory, Hybridization ({{< resource_link d4fc7a54-1ca4-9846-8117-def781c34805 "PDF" >}})  
   
 Problem Set #1 Due
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 4  
-**Acidity ([PDF]({{< baseurl >}}/resources/04))
+**Acidity ({{< resource_link 4339c721-65ff-ce32-4e8d-a47ffd31c9a3 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 5**  
-Bond Lengths and Strengths/Alkanes ([PDF]({{< baseurl >}}/resources/05))
+Bond Lengths and Strengths/Alkanes ({{< resource_link 0e7d0909-670a-5272-35c6-65782362ef54 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +97,7 @@ Problem Set #2 Due
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 10  
-**Stereochemistry ([PDF]({{< baseurl >}}/resources/06))
+**Stereochemistry ({{< resource_link 061c2c4c-7e20-9125-abb1-5096b06cef7f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,11 +114,11 @@ Problem Set #3 Due
 {{< tdopen >}}
 **Lecture 12**  
 Free Radical Reactions,  
-Thermodynamics and Kinetics ([PDF]({{< baseurl >}}/resources/07))
+Thermodynamics and Kinetics ({{< resource_link 105aa1cc-1658-da51-469e-91c49084d818 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 13**  
-Alkyl Halides/SN2 ([PDF]({{< baseurl >}}/resources/08))
+Alkyl Halides/SN2 ({{< resource_link cc8b450a-613b-6653-3597-0751f53d32b0 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +147,7 @@ Problem Set #4 Due
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 16  
-**Elimination Reactions of Alkyl Halides E1/E2 ([PDF]({{< baseurl >}}/resources/09))
+**Elimination Reactions of Alkyl Halides E1/E2 ({{< resource_link f0db4518-af59-1670-76af-d11a3d7464d4 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 17  
@@ -164,7 +165,7 @@ Structure and Synthesis of Alkenes
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 19**  
-The Alkene Double Bond: A Focus of Reactivity. Polar and Concerted Addition Reactions. ([PDF]({{< baseurl >}}/resources/10))  
+The Alkene Double Bond: A Focus of Reactivity. Polar and Concerted Addition Reactions. ({{< resource_link 60309d18-d51e-bf4d-39af-4fa836e96a08 "PDF" >}})  
   
 Problem Set #5 Due
 {{< tdclose >}}
@@ -201,7 +202,7 @@ Problem Set #6 Due
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 22  
-**ALKYNES: Structure and Bonding. Introduction to the Alkyne Triple Bond. ([PDF]({{< baseurl >}}/resources/11))
+**ALKYNES: Structure and Bonding. Introduction to the Alkyne Triple Bond. ({{< resource_link dd7747f1-10ea-2ca0-b3dd-2534e47c6b68 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 23  
@@ -224,7 +225,7 @@ Problem Set #7 Due
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 25**  
-ALCOHOLS: Structure, Synthesis and Reactions. Structure and Bonding. Acidity (brief review). Synthesis of Alcohols (methods to date and new strategies). Organometallic Reagents, Reactivity and Basicity. ([PDF]({{< baseurl >}}/resources/12))
+ALCOHOLS: Structure, Synthesis and Reactions. Structure and Bonding. Acidity (brief review). Synthesis of Alcohols (methods to date and new strategies). Organometallic Reagents, Reactivity and Basicity. ({{< resource_link 60e40f61-be42-4df0-ab0e-5fbaadba6e31 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 26  
@@ -243,7 +244,7 @@ ALCOHOLS: Structure, Synthesis and Reactions. Structure and Bonding. Acidity (br
 **Lecture 27**  
 AROMATIC COMPOUNDS: Structure and Reactions.  
 2, 3, and 4 Pi Electron Systems.  
-Benzene -- the Prototypic Aromatic System. What is "Aromaticity"? Huckel's rule. Identifying Aromatic Systems. Charged and Neutral Species. Polycyclics and Heterocyclic. ([PDF]({{< baseurl >}}/resources/13))
+Benzene -- the Prototypic Aromatic System. What is "Aromaticity"? Huckel's rule. Identifying Aromatic Systems. Charged and Neutral Species. Polycyclics and Heterocyclic. ({{< resource_link 0bfe833f-0159-610a-6373-cc3adfb13b4b "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 28  
@@ -259,7 +260,7 @@ Problem Set #8 Due
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 29  
-**Directing Effects in Electophilic Aromatic Substitution ([PDF]({{< baseurl >}}/resources/14))
+**Directing Effects in Electophilic Aromatic Substitution ({{< resource_link dc0f2fce-b1de-fc84-1a64-c8c449e861cf "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 **Lecture 30  
