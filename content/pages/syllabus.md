@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 92d5b652-56bf-1ea5-a26e-a548816068bd
 ---
@@ -19,9 +19,9 @@ This subject deals primarily with the basic principles to understand the structu
 Class Outline
 -------------
 
-1st half of the semester ({{< resource_link 85c7b648-37f6-2117-f933-69e80110f493 "PDF" >}})  
+1st half of the semester ({{% resource_link 85c7b648-37f6-2117-f933-69e80110f493 "PDF" %}})  
   
-2nd half of the semester ({{< resource_link 72cad7a6-f7b8-31c4-8169-204d96e9eade "PDF" >}})
+2nd half of the semester ({{% resource_link 72cad7a6-f7b8-31c4-8169-204d96e9eade "PDF" %}})
 
 Textbook
 --------
