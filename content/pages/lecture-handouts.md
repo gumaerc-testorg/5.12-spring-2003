@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Handouts
 uid: 88e4e30f-c9ff-9729-14b1-a9069821df04
 ---
@@ -42,7 +46,7 @@ General Class Information. Review of Lewis Bonding Theory
 Sarah Tabacco
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/01))
+({{% resource_link a9622543-20d5-add4-b31a-77925dddfce9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ch. 1
@@ -78,7 +82,7 @@ Review of Molecular Orbital Theory, Hybridization/LCAO
 Sarah Tabacco
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/03))
+({{% resource_link d4fc7a54-1ca4-9846-8117-def781c34805 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ch. 2
@@ -96,7 +100,7 @@ Acidity
 Sarah Tabacco
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/04))
+({{% resource_link 4339c721-65ff-ce32-4e8d-a47ffd31c9a3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ch. 1
@@ -114,7 +118,7 @@ Bond Lengths and Strengths/Alkanes
 Sarah Tabacco
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/05))
+({{% resource_link 0e7d0909-670a-5272-35c6-65782362ef54 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ch. 3
@@ -186,7 +190,7 @@ Stereochemistry
 Sarah Tabacco
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/06))
+({{% resource_link 061c2c4c-7e20-9125-abb1-5096b06cef7f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ch. 5
@@ -222,7 +226,7 @@ Free Radical Reactions: Thermo/Kinetics
 Sarah Tabacco
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/07))
+({{% resource_link 105aa1cc-1658-da51-469e-91c49084d818 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ch. 4
@@ -240,7 +244,7 @@ Free Radical Reactions: Thermo/Kinetics
 Sarah Tabacco
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/08))
+({{% resource_link cc8b450a-613b-6653-3597-0751f53d32b0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ch. 4
@@ -258,7 +262,7 @@ Alkyl Halides/SN2
 Sarah Tabacco
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/09))
+({{% resource_link f0db4518-af59-1670-76af-d11a3d7464d4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ch. 6
@@ -395,7 +399,7 @@ Polar and Concerted Addition Reactions. Hydrogenation, Addition of HX (Markovnik
 Barbara Imperiali
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/10))
+({{% resource_link 60309d18-d51e-bf4d-39af-4fa836e96a08 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 7.1, 7.2, 7.7, 8.1, 8.2, 8.3-8.5, 8.8, 8.10-8.11, 8.12-8.15, 8.16
@@ -416,7 +420,7 @@ ALKYNES: Synthesis and Reactions. Alkylation of Acetylide Anions (A Carbon Nucle
 Barbara Imperiali
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/11))
+({{% resource_link dd7747f1-10ea-2ca0-b3dd-2534e47c6b68 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 9.1-9.5, 9.6, 9.7, 9.9
@@ -434,7 +438,7 @@ ALCOHOLS: Structure, Synthesis and Reactions. Structure and Bonding. Acidity (br
 Barbara Imperiali
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/12))
+({{% resource_link 60e40f61-be42-4df0-ab0e-5fbaadba6e31 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 10.1-10.6, 10.7, 10.8, 10.9-10.12, 11.1-11.3, 11.5-11.9, 11.12, 11.14
@@ -453,7 +457,7 @@ AROMATIC COMPOUNDS: Structure and Reactions.
 Barbara Imperiali
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/13))
+({{% resource_link 0bfe833f-0159-610a-6373-cc3adfb13b4b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 15.1-15.4, 16.1-16.10, 16.13, 17.1-17.5, 17.10-17.11
@@ -473,7 +477,7 @@ CARBONYL COMPOUNDS: Summary of Various Types of Carbonyl Compounds - Aldehydes a
 Barbara Imperiali
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/14))
+({{% resource_link dc0f2fce-b1de-fc84-1a64-c8c449e861cf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 17.6-17.9, 17.12, 18.1-18.4
