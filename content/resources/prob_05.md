@@ -5,6 +5,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2003/b229daef9975abcef5ba43bc0617
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: prob_05.pdf
 uid: b229daef-9975-abce-f5ba-43bc06179353
 ---
 Problem Set #5
-

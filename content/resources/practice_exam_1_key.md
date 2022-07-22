@@ -5,6 +5,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2003/597f130a671a7afe63c5c6302f93
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Practice_Exam_1_key.pdf
 uid: 597f130a-671a-7afe-63c5-c6302f93d564
 ---
 Practice Exam #1
-

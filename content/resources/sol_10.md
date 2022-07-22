@@ -5,6 +5,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2003/7c29894758005e771038d7fdca44
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sol_10.pdf
 uid: 7c298947-5800-5e77-1038-d7fdca444483
 ---
 KEY practice problems
-

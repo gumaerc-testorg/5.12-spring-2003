@@ -5,6 +5,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2003/5358e01da38614242a6e00972c0a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sol_03.pdf
 uid: 5358e01d-a386-1424-2a6e-00972c0a1a13
 ---
 Problem Set #3
-
