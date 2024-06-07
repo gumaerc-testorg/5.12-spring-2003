@@ -2,6 +2,7 @@
 content_type: resource
 description: 'PROBLEM SET #8'
 file: /courses/5-12-organic-chemistry-i-spring-2003/7966d5cb273e67d79c07e85608cda287_sol_08.pdf
+file_size: 1612124
 file_type: application/pdf
 learning_resource_types:
 - Assignments
