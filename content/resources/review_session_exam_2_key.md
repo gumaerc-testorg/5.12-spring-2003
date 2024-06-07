@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Review #2: Solutions'
 file: /courses/5-12-organic-chemistry-i-spring-2003/e2b237ff7913255ac44c762208e515de_Review_Session_Exam_2_key.pdf
+file_size: 193140
 file_type: application/pdf
 learning_resource_types:
 - Exams

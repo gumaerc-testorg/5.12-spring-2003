@@ -2,6 +2,7 @@
 content_type: resource
 description: 'PROBLEM SET #7'
 file: /courses/5-12-organic-chemistry-i-spring-2003/49867879839bea5c49b2c3bce4239b4f_prob_07.pdf
+file_size: 185034
 file_type: application/pdf
 learning_resource_types:
 - Assignments
