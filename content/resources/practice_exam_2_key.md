@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Practice Exam #2: Answer Key'
 file: /courses/5-12-organic-chemistry-i-spring-2003/4d5dcb923c638dbb841385baa7e40557_Practice_Exam_2_key.pdf
+file_size: 222517
 file_type: application/pdf
 learning_resource_types:
 - Exams

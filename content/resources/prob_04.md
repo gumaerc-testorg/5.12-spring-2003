@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Problem Set #4'
 file: /courses/5-12-organic-chemistry-i-spring-2003/4dcfb3ad165574f9461545695f798c09_prob_04.pdf
+file_size: 46636
 file_type: application/pdf
 learning_resource_types:
 - Assignments
