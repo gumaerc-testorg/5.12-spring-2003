@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Practice Exam #1'
-file: /courses/5-12-organic-chemistry-i-spring-2003/597f130a671a7afe63c5c6302f93d564_Practice_Exam_1_key.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/597f130a671a7afe63c5c6302f93d564_Practice_Exam_1_key.pdf
 file_size: 221174
 file_type: application/pdf
 learning_resource_types:
