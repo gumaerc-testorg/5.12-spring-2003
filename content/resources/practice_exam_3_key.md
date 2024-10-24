@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Practice Exam #3'
-file: /courses/5-12-organic-chemistry-i-spring-2003/f3ebe42fa0b76c650f2cd60ea2230c94_Practice_Exam_3_key.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/f3ebe42fa0b76c650f2cd60ea2230c94_Practice_Exam_3_key.pdf
 file_size: 1963503
 file_type: application/pdf
 learning_resource_types:
