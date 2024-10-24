@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Review Session: Exam #2'
-file: /courses/5-12-organic-chemistry-i-spring-2003/07bc05e39fe8207c6bf96d9e5b2fbc8c_Review_Session_Exam_2.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/07bc05e39fe8207c6bf96d9e5b2fbc8c_Review_Session_Exam_2.pdf
 file_size: 102604
 file_type: application/pdf
 learning_resource_types:

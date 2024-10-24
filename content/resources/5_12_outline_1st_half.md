@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the outline of the chapters for the first half
   of semester.
-file: /courses/5-12-organic-chemistry-i-spring-2003/85c7b64837f62117f93369e80110f493_5_12_Outline_1st_Half.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/85c7b64837f62117f93369e80110f493_5_12_Outline_1st_Half.pdf
 file_size: 28006
 file_type: application/pdf
 learning_resource_types: []

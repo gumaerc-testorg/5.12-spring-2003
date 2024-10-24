@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Practice Exam #4: Answer Key'
-file: /courses/5-12-organic-chemistry-i-spring-2003/e3f7e0f6dd729869e0107cd79a124463_Practice_Exam_4_key.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/e3f7e0f6dd729869e0107cd79a124463_Practice_Exam_4_key.pdf
 file_size: 182680
 file_type: application/pdf
 learning_resource_types:
