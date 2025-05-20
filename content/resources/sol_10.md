@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: KEY practice problems
-file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/7c29894758005e771038d7fdca444483_sol_10.pdf
+file: /courses/5-12-organic-chemistry-i-spring-2003/7c29894758005e771038d7fdca444483_sol_10.pdf
 file_size: 2396895
 file_type: application/pdf
 learning_resource_types:

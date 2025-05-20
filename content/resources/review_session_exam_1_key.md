@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '5.12 Review Session: Exam 1 key'
-file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/a1a9fda6516a00ce7793bd9658b86a9a_Review_Session_Exam_1_key.pdf
+file: /courses/5-12-organic-chemistry-i-spring-2003/a1a9fda6516a00ce7793bd9658b86a9a_Review_Session_Exam_1_key.pdf
 file_size: 146817
 file_type: application/pdf
 learning_resource_types:

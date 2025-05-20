@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'PROBLEM SET #9'
-file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/9dcc1f722b61444551f68e5840b7d567_prob_09.pdf
+file: /courses/5-12-organic-chemistry-i-spring-2003/9dcc1f722b61444551f68e5840b7d567_prob_09.pdf
 file_size: 130239
 file_type: application/pdf
 learning_resource_types:

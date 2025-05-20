@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: PRACTICE PROBLEMS FOR FINAL EXAM
-file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/0e8ae2e972b14ebaca334b3922e4c9b9_prob_10.pdf
+file: /courses/5-12-organic-chemistry-i-spring-2003/0e8ae2e972b14ebaca334b3922e4c9b9_prob_10.pdf
 file_size: 306079
 file_type: application/pdf
 learning_resource_types:
