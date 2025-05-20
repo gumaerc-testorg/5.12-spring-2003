@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'PROBLEM SET #8'
-file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/e4443fec67e576c89a3eedc13e2250fc_prob_08.pdf
+file: /courses/5-12-organic-chemistry-i-spring-2003/e4443fec67e576c89a3eedc13e2250fc_prob_08.pdf
 file_size: 196467
 file_type: application/pdf
 learning_resource_types:
