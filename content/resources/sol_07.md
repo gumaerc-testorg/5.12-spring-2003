@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'PROBLEM SET #7'
-file: /courses/5-12-organic-chemistry-i-spring-2003/d7c1117c14f63964b7aa22ad6e4bd661_sol_07.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/d7c1117c14f63964b7aa22ad6e4bd661_sol_07.pdf
 file_size: 1037279
 file_type: application/pdf
 learning_resource_types:
