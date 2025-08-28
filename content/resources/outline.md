@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '[Class outline, second-half]'
-file: /courses/5-12-organic-chemistry-i-spring-2003/72cad7a6f7b831c48169204d96e9eade_outline.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/72cad7a6f7b831c48169204d96e9eade_outline.pdf
 file_size: 30604
 file_type: application/pdf
 learning_resource_types: []

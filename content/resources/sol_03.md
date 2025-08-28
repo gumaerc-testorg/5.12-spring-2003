@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Problem Set #3'
-file: /courses/5-12-organic-chemistry-i-spring-2003/5358e01da38614242a6e00972c0a1a13_sol_03.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2003/5358e01da38614242a6e00972c0a1a13_sol_03.pdf
 file_size: 147194
 file_type: application/pdf
 learning_resource_types:
